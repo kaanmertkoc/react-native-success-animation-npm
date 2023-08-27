@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "This success animation is react-native developers where developers can't use lottie animations for success.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

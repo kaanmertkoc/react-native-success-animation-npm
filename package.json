@@ -1,6 +1,6 @@
 {
   "name": "kaankoc-rn-success-animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This success animation is react-native developers where developers can't use lottie animations for success.",
   "main": "index.js",
   "scripts": {
